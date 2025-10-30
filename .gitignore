@@ -1,0 +1,13 @@
+# General
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# OS
+Thumbs.db
